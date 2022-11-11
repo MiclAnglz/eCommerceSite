@@ -28,9 +28,9 @@ whether the user is logged in or not
 
 • Once logged in the program will:
 
-display users' details
+  - display users' details
 
-update user details in the database
+  - update user details in the database
 
-display order history, displaying the total of all the items bought
+  - display order history, displaying the total of all the items bought
 per order id and date
