@@ -7,10 +7,9 @@
 TWA Major Project - Vanilla Javascript, CSS, HTML, MySQL, MariahDB
 Summer Class
 
-Technologies for Web Applications High Distinction
-Task
+Technologies for Web Applications
 
-Built an e commerce website using Javascript , css3, html5, PHP and
+<strong>Task: </strong>Built an e commerce website using Javascript , css3, html5, PHP and
 MySQL for the database.
 The site features include:
 
