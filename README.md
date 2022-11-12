@@ -20,11 +20,11 @@ The site features include:
 
 • A secure login for existing users.
 
-• A shopping cart for users to add items. The user must be able to add items
+• A shopping cart for users to add items. The user is able to add items
 regardless if they are logged in or browsing. The program only allows a user
 to checkout once logged in.
 
-• Form validation for "login", "register" and "add to cart" pages
+• Form validation for "login", "register" and "add to cart" pages.
 
 <strong>Once logged in the program will:</strong>
 
@@ -32,7 +32,7 @@ to checkout once logged in.
 
   - update user details in the database
   
-  - display order history of all the items bought per order id and date for the user logged in.
+  - display order history of all the total items bought per order id and date for the user logged in.
   
   <strong>Additional Features:</strong>
 
