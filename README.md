@@ -1,3 +1,6 @@
+Special Notes:
+
+
 # eCommerceSite
 TWA Major Project - Vanilla Javascript, CSS, HTML, MySQL, MariahDB
 Summer Class
