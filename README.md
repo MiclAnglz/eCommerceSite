@@ -29,7 +29,7 @@ whether the user is logged in or not
 
 • Form validation for login, register and add to cart pages
 
-• Once logged in the program will:
+Once logged in the program will:
 
   - display users' details
 
