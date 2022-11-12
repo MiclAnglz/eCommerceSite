@@ -1,4 +1,4 @@
-Special Notes:
+<strong>Special Notes:</strong>
 
 
 # eCommerceSite
