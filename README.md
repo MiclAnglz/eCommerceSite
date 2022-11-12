@@ -6,6 +6,13 @@
 
 <strong>Additional Features:</strong>
 
+• A remove button on the cart list
+
+• Disable the user from adding the same item twice in the cart
+
+• Display different menu items, buttons and welcome messages based on
+whether the user is logged in or not
+
 # Ecommerce Site
 
 <h4>(My First Website)</h4>
@@ -22,24 +29,16 @@ The site features include:
 
 • A secure login for existing users
 
-• A shopping cart for users to add items. The user can also add items
+• A shopping cart for users to add items. The user must be able to add items
 regardless if they are logged in or browsing. The program only allows a user
-to checkout once logged in
+to checkout once logged in.
 
-• A remove button on the cart list
+• Form validation for "login", "register" and "add to cart" pages
 
-• Disable the user from adding the same item twice in the cart
-
-• Display different menu items, buttons and welcome messages based on
-whether the user is logged in or not
-
-• Form validation for login, register and add to cart pages
-
-Once logged in the program will:
+<strong>Once logged in the program will:</strong>
 
   - display users' details
 
   - update user details in the database
 
-  - display order history, displaying the total of all the items bought
-per order id and date
+  - display order history of all the items bought per order id and date for the user logged in.
