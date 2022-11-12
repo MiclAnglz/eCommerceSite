@@ -2,8 +2,9 @@
 
 - A more detailed description of the project tasks can be found in the "ProjectBrief" folder.
 
-- This site was ran on a local server user XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/.
+- This site was ran on a local server useing XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/.
 
+<strong>Additional Features:</strong>
 
 # Ecommerce Site
 
