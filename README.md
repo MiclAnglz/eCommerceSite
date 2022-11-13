@@ -2,7 +2,7 @@
 
 - A more detailed description of the project tasks can be found in the "ProjectBrief" folder.
 
-- This site was ran on a local server using XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/ and use the database(eshop.sql) saved in the "SQLite_DB" folder.
+- This site was ran on a local server using XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/ and use the database <i>(eshop.sql)</i> saved in the "SQLite_DB" folder.
 
 # Ecommerce Site
 
