@@ -4,6 +4,13 @@
 
 - This site was ran on a local server using XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/ and use the database <i>(eshop.sql)</i> saved in the "MySQL_DB" folder.
 
+<hr/>
+ <strong>Login Credentials</strong>
+ <br>
+ <br>
+ <div>username: <i>reyn@gmail.com</i></div>
+ <div>password: <i>1qqqqqqq</i></div>
+
 # Ecommerce Site
 
 <h4>(My First Website)</h4>
