@@ -5,7 +5,7 @@
 - This site was ran on a local server using XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/ and use the database <i>(eshop.sql)</i> saved in the "MySQL_DB" folder.
 
 <hr/>
- <strong>Login Credentials</strong>
+ <strong>Usable Login Credentials</strong>
  <br>
  <br>
 
