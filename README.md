@@ -8,7 +8,11 @@
  <strong>Login Credentials</strong>
  <br>
  <br>
- <div>username: <i>reyn@gmail.com</i></div>
+
+ <div> 1)username: <i>reyn@gmail.com</i></div>
+ <div>password: <i>1qqqqqqq</i></div>
+ <br>
+ <div> 2)username: <i>hi@gmail.com</i></div>
  <div>password: <i>1qqqqqqq</i></div>
 
 # Ecommerce Site
