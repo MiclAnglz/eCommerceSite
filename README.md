@@ -23,7 +23,7 @@ Summer Class
 
 Technologies for Web Applications
 
-<strong>Task: </strong>Built an e commerce website using Javascript , css3, html5, PHP and
+<strong>Task: </strong>Build a ficticious e commerce website using Javascript , css3, html5, PHP and
 MySQL for the database.
 The site features include:
 
