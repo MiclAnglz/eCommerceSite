@@ -1,8 +1,8 @@
 <strong>Notes:</strong>
 
-- A more detailed description of the project tasks can be found in the "ProjectBrief" folder.
+- For a more in-depth understanding of the project tasks, please refer to the detailed documentation located within the "ProjectBrief" folder..
 
-- This site was ran on a local server using XAMMP control panel. Please download and follow instructions for installation from https://www.phpmyadmin.net/ and use the database <i>(eshop.sql)</i> saved in the "MySQL_DB" folder.
+- o operate this site locally, it was hosted on a local server through the XAMPP control panel. For installation guidance, please visit https://www.phpmyadmin.net/ and follow the instructions provided. To establish a seamless connection, utilize the provided database (eshop.sql) stored within the "MySQL_DB" folder.
 
 <hr/>
  <strong>Usable Login Credentials</strong>
