@@ -23,27 +23,17 @@ Summer Class
 
 Technologies for Web Applications
 
-<strong>Task: </strong>Build a ficticious e commerce website using Javascript , css3, html5, PHP and
-MySQL for the database.
-The site features include:
+<strong>Task: </strong>Create a fictional e-commerce website utilizing JavaScript, CSS3, HTML5, PHP, and MySQL database. The website is intended to incorporate the following functionalities:
 
-• Register new users into the MySQL database.
+Enable user registration and store new user information within the MySQL database.
+Implement a secure login mechanism for existing users.
+Develop a user-friendly shopping cart system enabling users to add items. Regardless of whether users are logged in or browsing, they can add items to their cart. However, the system permits checkout only for logged-in users.
+Incorporate robust form validation for key pages like "login," "register," and "add to cart."
+Upon successful login, the program is designed to:
 
-• A secure login for existing users.
-
-• A shopping cart for users to add items. The user is able to add items
-regardless if they are logged in or browsing. The program only allows a user
-to checkout once logged in.
-
-• Form validation for "login", "register" and "add to cart" pages.
-
-<strong>Once logged in the program will:</strong>
-
-  - display users' details
-
-  - update user details in the database
-  
-  - display order history of all the total items bought per order id and date for the user logged in.
+Display detailed information about the logged-in user.
+Facilitate the updating of user details directly within the database.
+Present a comprehensive order history, including total items purchased per order ID and the corresponding purchase date, for the logged-in user.
   
   <strong>Additional Features:</strong>
 
