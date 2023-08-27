@@ -25,15 +25,21 @@ Technologies for Web Applications
 
 <strong>Task: </strong>Create a fictional e-commerce website utilizing JavaScript, CSS3, HTML5, PHP, and MySQL database. The website is intended to incorporate the following functionalities:
 
-Enable user registration and store new user information within the MySQL database.
-Implement a secure login mechanism for existing users.
-Develop a user-friendly shopping cart system enabling users to add items. Regardless of whether users are logged in or browsing, they can add items to their cart. However, the system permits checkout only for logged-in users.
-Incorporate robust form validation for key pages like "login," "register," and "add to cart."
-Upon successful login, the program is designed to:
+- Enable user registration and store new user information within the MySQL database.
 
-Display detailed information about the logged-in user.
-Facilitate the updating of user details directly within the database.
-Present a comprehensive order history, including total items purchased per order ID and the corresponding purchase date, for the logged-in user.
+- Implement a secure login mechanism for existing users.
+  
+- Develop a user-friendly shopping cart system enabling users to add items. Regardless of whether users are logged in or browsing, they can add items to their cart. However, the system permits checkout only for logged-in users.
+  
+- Incorporate robust form validation for key pages like "login," "register," and "add to cart."
+  
+<strong>Upon successful login, the program is designed to:</strong>
+
+- Display detailed information about the logged-in user.
+ 
+- Facilitate the updating of user details directly within the database.
+ 
+- Present a comprehensive order history, including total items purchased per order ID and the corresponding purchase date, for the logged-in user.
   
   <strong>Additional Features:</strong>
 
